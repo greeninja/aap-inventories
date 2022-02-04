@@ -1,0 +1,5 @@
+---
+
+node02:
+  hosts:
+    node02.aap2.local:
