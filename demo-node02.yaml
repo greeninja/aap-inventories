@@ -2,4 +2,4 @@
 
 node02:
   hosts:
-    node02.aap2.local:
+    demo-node02.aap2.local:
